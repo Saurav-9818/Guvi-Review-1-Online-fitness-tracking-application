@@ -1,0 +1,17 @@
+/OnlineFitnessTrackingApp
+    /src
+        /main
+            /java
+                /com
+                    /fitnessapp
+                        /controller
+                            - UserController.java
+                        /dao
+                            - UserDAO.java
+                        /model
+                            - User.java
+                        - App.java (main class)
+            /resources
+                - db.properties (database configuration)
+        /lib
+            - mysql-connector-java-x.x.x.jar (JDBC driver)
